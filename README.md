@@ -66,7 +66,8 @@ This Power BI dashboard was developed using the **Superstore Sales Data** extrac
 
 ## 📷 Dashboard Preview
 
-![dashboard_preview](https://github.com/user-attachments/assets/2df6cb9c-5c28-46d1-8f8e-42a3f7ba98cb)
+![dashboard_preview](https://github.com/user-attachments/assets/4ae232d9-0cb2-4f3d-8004-d506895565fc)
+
 
 
 ---
